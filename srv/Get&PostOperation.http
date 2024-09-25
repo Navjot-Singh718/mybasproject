@@ -1,0 +1,14 @@
+GET http://localhost:4004/odata/v4/navidbservice/AtcChecksSet?$top=2&$filter=srno eq 133 HTTP/1.1
+
+###
+POST http://localhost:4004/odata/v4/navidbservice/AtcChecksSet
+Content-Type: application/json
+
+{"srno":133,
+"priority":3,
+"checktitle":"Missing AUTHORITY-CHECK before SUBMIT",
+"checkmessage":"Submit without AUTHORITY CHECK",
+"objectname":"/PSYNG/ER_028",
+"comments":"Applied for Exemption - Authority Check present before SUBMIT /PSYNG/ER_028 report",
+"linenumber":1102,
+"include":"/PSYNG/ER_028F01"}

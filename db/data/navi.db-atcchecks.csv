@@ -1,0 +1,133 @@
+srno,priority,checktitle,checkmessage,objectname,comments,linenumber,include
+1,1,Missing AUTHORITY-CHECK before SUBMIT,Submit without AUTHORITY CHECK,/PSYNG/ER_MAIN,Applied for Exemption - Authority Check present before SUBMIT /PSYNG/ER_028 report,960,/PSYNG/ER_MAINI01
+2,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,1034,/PSYNG/ER_021_F01
+3,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,1440,/PSYNG/ER_021_F01
+4,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,1560,/PSYNG/ER_021_F01
+5,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,4515,/PSYNG/ER_021_F01
+6,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,5030,/PSYNG/ER_021_F01
+7,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,6890,/PSYNG/ER_021_F01
+8,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,195,/PSYNG/ER_MAINO01
+9,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,2367,/PSYNG/ER_MAINO01
+10,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,3055,/PSYNG/ER_MAINO01
+11,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,3087,/PSYNG/ER_MAINO01
+12,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,3167,/PSYNG/ER_MAINO01
+13,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,3280,/PSYNG/ER_MAINF01
+14,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,3921,/PSYNG/ER_MAINF01
+15,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,8492,/PSYNG/ER_MAINF01
+16,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,10039,/PSYNG/ER_MAINF01
+17,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,10329,/PSYNG/ER_MAINF01
+18,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,561,/PSYNG/ER_MAINI01
+19,1,Hard-Coded Username (SY-UNAME),Hard Coded User Name (SY-UNAME) used,/PSYNG/ER_MAIN,Corrected,,
+20,1,Extended Program Check (SLIN),Formal parameter incompatible with actual parameter,/PSYNG/ER_MAIN,Applied for Exemption - can not be corrected as it is based on SAP System Release,4118,/PSYNG/ER_021_F01
+21,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,4389,/PSYNG/ER_021_F01
+22,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,5280,/PSYNG/ER_021_F01
+23,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,5291,/PSYNG/ER_021_F01
+24,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,5298,/PSYNG/ER_021_F01
+25,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,5959,/PSYNG/ER_021_F01
+26,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,7668,/PSYNG/ER_021_F01
+27,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,7674,/PSYNG/ER_021_F01
+28,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,216,/PSYNG/ER_021_O01
+29,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,277,/PSYNG/ER_021_O01
+30,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,354,/PSYNG/ER_021_O01
+31,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,751,/PSYNG/ER_021_O01
+32,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,281,/PSYNG/ER_MAINO01
+33,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,3430,/PSYNG/ER_MAINO01
+34,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,3499,/PSYNG/ER_MAINO01
+35,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,3578,/PSYNG/ER_MAINO01
+36,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,454,/PSYNG/ER_MAINF01
+37,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,2371,/PSYNG/ER_MAINF01
+38,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,6054,/PSYNG/ER_MAINF01
+39,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,8992,/PSYNG/ER_MAINF01
+40,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,9426,/PSYNG/ER_MAINF01
+41,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Added Sy-subrc check,99,/PSYNG/ER_MAIN
+42,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+43,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+44,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+45,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+46,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+47,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+48,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+49,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+50,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+51,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+52,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+53,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+54,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+55,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+56,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+57,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+58,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+59,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+60,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+61,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+62,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+63,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+64,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+65,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+66,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+67,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+68,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+69,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+70,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+71,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+72,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+73,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+74,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+75,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+76,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+77,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+78,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+79,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+80,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+81,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+82,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+83,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+84,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+85,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+86,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+87,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+88,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+89,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+90,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+91,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+92,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+93,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+94,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+95,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+96,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+97,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+98,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+99,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+100,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+101,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+102,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+103,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+104,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+105,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+106,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+107,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+108,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+109,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+110,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+111,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+112,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+113,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+114,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+115,2,Check of SY-SUBRC Handling,No Handling of SY-SUBRC After Reading Database Statement,/PSYNG/ER_MAIN,Applied for Exemption ,,
+116,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Corrected - Sorted outside the Loop,5870,/PSYNG/ER_021_F01
+117,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Corrected - Sorted outside the Loop,5883,/PSYNG/ER_021_F01
+118,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort in Sorting Asc/Dec ,525,/PSYNG/ER_MAINF01
+119,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort in Sorting Asc/Dec ,525,/PSYNG/ER_MAINF01
+120,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort in Sorting Asc/Dec ,1637,/PSYNG/ER_MAINF01
+121,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort in Sorting Asc/Dec ,1639,/PSYNG/ER_MAINF01
+122,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort in Sorting Asc/Dec ,3396,/PSYNG/ER_MAINF01
+123,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort in Sorting Asc/Dec ,3398,/PSYNG/ER_MAINF01
+124,2,SORT Statement Inside Loop,SORT Inside LOOP ... ENDLOOP,/PSYNG/ER_MAIN,Used Pseudo Code to hide the finding as it is used to sort each User Language Priority for email,4592,/PSYNG/ER_MAINF01
+125,2,Extended Program Check (SLIN),Function module exception missing,/PSYNG/ER_MAIN,Corrected - DEQUEUE_/PSYNG/TABLE FM dose not support any exception,7913 - 7916,/PSYNG/ER_021_F01
+126,2,Extended Program Check (SLIN),Function module exception missing,/PSYNG/ER_MAIN,Corrected - DEQUEUE_/PSYNG/TABLE FM dose not support any exception,7973 - 7976,/PSYNG/ER_021_F01
+127,2,Syntax Check,MESSAGEG@P,/PSYNG/ER_MAIN,Corrected - SY-LANG only accept single character Example for English we should pass only E instead of EN,401,/PSYNG/ERTOP
+128,2,Syntax Check,MESSAGEG@Z,/PSYNG/ER_MAIN,Corrected - SY-LANG only accept single character Example for German we should pass only D instead of DE,402,/PSYNG/ERTOP
+129,2,Syntax Check,MESSAGEG@Z,/PSYNG/ER_MAIN,Corrected - SY-LANG only accept single character Example for English we should pass only E instead of EN,1034,/PSYNG/ER_MAINO01
+130,2,Syntax Check,MESSAGEG@Z,/PSYNG/ER_MAIN,Corrected - SY-LANG only accept single character Example for English we should pass only E instead of EN,3490,/PSYNG/ER_MAINF01
+131,2,Syntax Check,MESSAGEG@Z,/PSYNG/ER_MAIN,Corrected - SY-LANG only accept single character Example for English we should pass only E instead of EN,5923,/PSYNG/ER_MAINF01
+132,2,Syntax Check,MESSAGEG@Z,/PSYNG/ER_MAIN,Applied for Exemption - Config paramter LOGNR_LABEL is limited to 20 Characte.Hence used +(20),1252,/PSYNG/ER_021_F01
